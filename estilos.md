@@ -1,1 +1,1 @@
-
+# Color principal: Azul corporativo
